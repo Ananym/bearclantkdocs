@@ -4,7 +4,7 @@
 
 Hidden player knows the answer, has to help the team guess the solution without being identified at the end.
 
-This game is Insider, rules available online probably.
+This game is Insider, rules available online: https://www.ultraboardgames.com/insider/game-rules.php
 
 ```
                              `  .:    
@@ -46,7 +46,6 @@ If the crowd identifies the right answer, everyone (including the master) attemp
 If the crowd identifies the insider (or determines there was no insider), the crowd wins and splits the pot.  If they get it wrong, the insider takes it all!
 ```
 
-<<<<<<< HEAD
 Suggestion list, pls add:
 
 Items:
@@ -83,40 +82,4 @@ Places:
 
 People:
 - Ironheart / Jadespear
-=======
-Items:
-Military fork
-Flamespear
-Flameblade
-Wooden saber
-Staff of Elements
-Diadem
-Yellow Scroll
-Red potion
-Faerie light
-
-Monsters:
-Forever tree
-Leviathan
-Ice beast
-Strange thing
-Spirit rat
-Green squirrel
-Iron tiger
-Black sheep
-Slog
-
-Places:
-Hausson
-Sanhae
-Scribe's Mountain
-The Museum
-Arctic land
-Raheem dessert
-Aklak
-Gogoon village
-
-People:
-Ironheart / Jadespear
->>>>>>> 93501224e81a6e102d406e5208b1f966a248c9ac
 

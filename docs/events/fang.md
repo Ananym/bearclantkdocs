@@ -1,6 +1,6 @@
 # Bear Fang
 
-Bluffing card game.  This is "Skull", rules available online.
+Bluffing card game.  This is "Skull", rules available online: https://www.board-game.co.uk/how-to-play-skull/
 
 ```
 
@@ -19,7 +19,7 @@ Bluffing card game.  This is "Skull", rules available online.
                   +NMMMMMMMMMMMMMMMMMMMN
                    .---..-+ymMMMMMMMMN/
                                  .+shdh
-<b>                     BEAR-FANG
+<b>                     Bear Fang
 <b>                        
             5pm EST, Mon 30th
              Bear Clan Cave

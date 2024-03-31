@@ -1,10 +1,11 @@
 # Bearfall
 
-This game is Spyfall.  Rules available online.
+This game is Spyfall.  Rules available online: https://cdn.1j1ju.com/medias/99/c4/5e-spyfall-rulebook.pdf
+
 Simple, but gotta work out how to stop people asking cheesy questions.
 Try e.g. just letting people refuse to answer if they don't like the question.
 
-Uhh, maybe go ahead and change the name.  Imposter, or something.  Normals aren't going to recognise the name.
+Uhh, maybe go ahead and change the name.  Imposter, or something.  Normal players aren't going to recognise the name.
 
 ```
                              `  .:    

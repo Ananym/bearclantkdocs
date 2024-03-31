@@ -1,7 +1,7 @@
 # Bear Renegades
 
 Social deduction.  This game is Resistance, rules available online.
-Other rules from those games can be thrown in.
+Other rules from those games can be thrown in, particularly the Merlin rule from Avalon.
 
 ```
                             `  .:     

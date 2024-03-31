@@ -1,8 +1,11 @@
 
 # Bear Nomads
 
-1v1 boardgame
-Relaxed tournament style recommended
+1v1 boardgame.
+
+This is "Two Queens Chess".
+
+Relaxed tournament style recommended.
 
 ```
                              `  .:    
@@ -38,11 +41,13 @@ Loser's bracket: 100k
 Catch us in Bear Falls at 7pm EST Weds 6th, half way between Kugnae's north gate and the arena!
 
 <b>                                             [//]    
+```
 
-Setup:
+Board Setup:
+```
 w.b.b
 b...w
 w...b
 b...w
 w.w.b
-
+```
