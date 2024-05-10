@@ -6,5 +6,9 @@
   - [Bear Insider](events/insider.md)
   - [Bearfall](events/bearfall.md)
   - [Final Hour Feast](events/feast.md)
+- Lore
+  - [Bear History](lore/history.md)
+  - [Bears & Warriors](lore/warriors.md)
+  - [Bears & Poets](lore/poets.md)
 - Misc
   - [C&M Post](misc/clansandministries.md)
