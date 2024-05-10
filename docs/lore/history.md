@@ -1,0 +1,19 @@
+# Of Bears and History
+
+Much has been lost of the old ways.  Day by day, my kindred seek to recover the wisdom of our ancestors.  Scraps of myth and history, and lessons yet to be learned.  In the latter, I hope that you join me - of the former, I have this much to share:
+ 
+It was held that all creatures of land and sea were but parts of the great spirit of nature - the origin of all modern notions of divinity.  Every mountain lion, every fickle deer, each an expression of the same essential identity, part of the land itself.  Man, headstrong and egotistical, was clearly set apart from this world.  
+ 
+One beast, however, was regarded above the rest.  Of the fragments of language that survive, the titles of the Bear uncover a common theme.  "Old man in the fur cloak".  "Golden Gentleman".  "Mountain Grandfather".  All suggest the bear as being related to man - straddling that line between individual ego and as component of a greater divinity.  
+ 
+This perspective is understandable - any who've spent time with the bears in the wild come to learn of their individual talents, personalities, and the range of relationships they build with the other bears and humans.  Bears' proclivity to stand and walk on their hindlegs, or manipulate their environment with their paws as deliberately as we would use hands, undoubtedly played a part in cementing their role.
+ 
+At the same time, the bear demonstrates a profound connection to the land.  A bear's incredible senses and natural intuition grants them access to every boon of the forest, from roots and berries to fresh kill and fish.  They understand the passing of the seasons, and travel great distances to thrive year-round.  It's said that man learned much of natural lore and foraging by imitating bears.  With this inherent dual nature, both wild and unique, the bears were seen as ambassadors between man and the divine - messengers and mediators of the gods.
+ 
+Often, it was held that the souls of bears were those of revered human elders that had passed on, reuniting with the spirit of the land.  For this reason, bears were treated with utmost respect - even when hunted for food out of need, bears were given grand ceremonial burials, for respectful treatment would see the land respond with forthcoming abundance.  This relationship between bears and the fertility of the land has been found to be common everywhere that bears call home.
+ 
+The she-bear's capacity to retreat into the earth to weather the harshest winter and emerge come spring bearing cubs gave rise to the symbology of bears as totems of fertility and nurturing motherhood.  This gave bears their place in tales of creation, which commonly explained man's origin as being rooted in the union of a deity and a an aspect of the bear, or variants thereof. 
+ 
+The famous tale of Dangun is one such story favoured by our family.  The heavenly prince Hwanung - son of the Lord of Heaven - founded the divine city upon Baekdu mountain.  A tiger and bear prayed to Hwanung, expressing their desires to become human.  Hwanung tasked them to avoid sunlight and eat naught but mugwort and twenty cloves of garlic for 100 days.  Only the she-bear demonstrated the patience to endure this task, and as promised was granted human form.  However, she prayed furthermore for a child, so Hwanung took the she-bear as his wife.  Their child was named Dangun, and he would succeed his father and go on to found the first true kingdom of our lands, Joseon.  Thus, the ruling bloodline stems from a god of the heavens, and an aspect of the spirit of the land.
+ 
+Should you find yourself walking with bears, open your mind and sharpen your senses - in the glimmer of their eyes, you may come to know a little more of yourself.
