@@ -23,7 +23,7 @@ Relaxed tournament style recommended.
                   +NMMMMMMMMMMMMMMMMMMMN
                    .---..-+ymMMMMMMMMN/
                                  .+shdh
-<b>                     BEAR-FALL
+<b>                  Bear Nomads
 <b>                        
             7pm EST, Weds 6th
              Bear Clan Cave
