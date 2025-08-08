@@ -6,6 +6,7 @@
   - [Bear Insider](events/insider.md)
   - [Bearfall](events/bearfall.md)
   - [Final Hour Feast](events/feast.md)
+  - [Bear Codenames](events/codenames.md)
 - Lore
   - [Bear History](lore/history.md)
   - [Bears & Warriors](lore/warriors.md)
